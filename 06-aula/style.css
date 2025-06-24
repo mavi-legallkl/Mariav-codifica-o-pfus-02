@@ -1,0 +1,46 @@
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+;
+}
+nav{
+    background-color: orange;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 30px;
+}
+div{
+    background-color: bisque;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#caixa-roxa{
+    background-color: rgb(138, 161, 211);
+    color: white;
+    width: 200px;
+    height: 300px;
+}
+#caixa-rosa{
+    background-color: cadetblue;
+    color: white;
+    width: 1200px;
+    height: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    
+}
+
+.minicaixa{
+    background-color: brown;
+    font-size: 35px;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    display: inline-block;
+    
+}
