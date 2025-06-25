@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(29, 66, 5);
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+#Principal{
+    width: 90%;
+    height: 800px;
+margin: auto;    
+background-color: green;
+background-image: linear-gradient( green 20%, white 60%, greenyellow );
+background-position: 0px;
+background-size: 1750px; }
+
+#secundario{
+    width: 90%;
+    height: 2000px;
+    margin: auto;
+    background-color: green;
+    background-image: url("https://cinepop.com.br/wp-content/uploads/2022/12/shrek.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 0%;
+    background-attachment: fixed;
+    background-position: 50%;
+}
