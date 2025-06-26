@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+
+
+body{
+    background-color: rgb(56, 9, 50);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("https://i.pinimg.com/736x/7c/17/97/7c17977efa99c01c1ca8cc7626a3b1c9.jpg");
+}
+p{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 5px;
+}
+
+#direita{
+    text-align: right;
+}
+
+#esquerda{
+    text-align: left;
+}
+
+#centro{
+    text-align: center;
+}
+
+#justificado{
+    text-align: justify;
+}
+
+#min{
+text-transform: lowercase;
+}
+
+#maius{
+text-transform: uppercase;
+}
+
+#capi{
+    text-transform: capitalize;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 400px;
+    text-shadow: 10px 5px rgb(49, 48, 49);
+}
+
+#deco{
+text-decoration: overline underline black;
+
+}
+
+#outra-fonte{
+    font-family: Impact, sans-serif;
+    color: darkolivegreen;
+}
+
+#Fonte-google{
+font-family: "Sevillana", cursive;
+}
+
+@font-face{
+    font-family: 'Michroma';
+    src: url("./fontes/BitcountGridDouble-VariableFont_CRSV\,ELSH\,ELXP\,slnt\,wght.ttf");
+}
+
+#fonte-perso{
+    font-family: 'Michroma', sans-serif;
+    font-size: 50px;
+}
